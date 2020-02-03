@@ -10,3 +10,5 @@ Errors in the product may exist and have been flagged (see for example here: htt
 Perhaps I will fix these errors in the future, but for now the data exists as is. 
 
 Note: The borders shown in this data do NOT always conform to international standards for example Arunachal Pradesh shows the entirety of China's claims, but not the official border.
+
+TO DO: Transform this data into point data and a csv with coordinates, using peak analyis methods. 
